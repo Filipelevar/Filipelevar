@@ -5,7 +5,7 @@
     About me!
 </h4>
 
-<p>I'm a web developer from Brazil! I am a committed, engaged and fast learning professional. My goal is to positively affect the
+<p>I'm a Front-End developer from Brazil! I am a committed, engaged and fast learning professional. My goal is to positively affect the
 evolution of the company, with a focus on solutions and critical thinking. I'm always improving my
 knowledge and development by carrying out Softskill and Hardskill courses.</p>
 </div>
