@@ -10,9 +10,18 @@ evolution of the company, with a focus on solutions and critical thinking. I'm a
 knowledge and development by carrying out Softskill and Hardskill courses.<b></p>
 </div>
 
+<div>
+ <a href="https://github.com/Filipelevar"></a>
+   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=Filipelevar&show_icons=true&theme=dracula" />
+   <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Filipelevar&layout=compact&theme=dracula" />
+   
 
-    [![Filipelevar GitHub stats](https://github-readme-stats.vercel.app/api?username=Filipelevar)](https://github.com/Filipelevar/github-readme-stats)
-    
+
+
+
+ 
+
+   
 <div style="display: inline_block"><br>
   <img align="center" alt="Filipe-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Filipe-Ts" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
